@@ -10,7 +10,7 @@
 | 이름       | 학년 | 전공          | 역할                          |
 |------------|-----|---------------|------------------------------|
 | 백근주    | 4    | 지능기전공학부 무인이동체공학전공 | Custom Cutout 개발, CAM based analysis, 수도라벨링 적용 |
-| 김동영    | 4    | 지능기전공학부 무인이동체공학전공 | YOLOv8 baseline 작성, Ablation Study |
+| 김동영    | 4    | 지능기전공학부 무인이동체공학전공 | YOLOv8 baseline 작성, Ablation Study, Custom Blur 개발 |
 
 ## 개발 환경
 - Python: 3.9.16
