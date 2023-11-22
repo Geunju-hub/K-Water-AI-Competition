@@ -34,7 +34,8 @@
 - Label smoothing 적용
   - mixup과 마찬가지로, 모델이 과하게 확신하는 것을 방지하고자 적용.
 - semi supervised 방식 적용 : 모델의 전체 학습 과정은 아래와 같음
-  0. 주최측에서 제공한 참고동영상을 각 frame 별로 이미지화 (additional data로 명명)
+  0. 주최측에서 제공한 참고동영상을 각 frame 별로 이미지화
+     - (additional data로 명명)
   1. 제공받은 training data 전체를 object yolov8 m 모델로 학습함.
      - 이 때, mixup 적용함 
   2. 학습된 모델로부터 additional data를 inference
