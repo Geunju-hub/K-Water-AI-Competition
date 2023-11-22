@@ -8,6 +8,7 @@
 
 ## 데이터 설명
 - 대회에서 제공한 데이터(학습 약 100,000개 / 테스트 약 45,000개)
+- [dataset](https://aifactory.space/task/2600/data)
 
 ## 모델 접근 방식
 - YOLOv8 series 적용
@@ -52,3 +53,7 @@
 
 ## 개발 환경
 - Python: 3.9.16
+
+## Reference
+- [ultralytics](https://github.com/ultralytics/ultralytics)
+- [YOLO-V8-CAM](https://github.com/rigvedrs/YOLO-V8-CAM)
