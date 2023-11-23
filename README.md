@@ -3,6 +3,9 @@
 
 ![K-water_project Logo](https://cdn.aifactory.space/images/20231018120320_NhMR.jpg)
 
+### 1st Solution PDF
+[PDF Link](https://github.com/Geunju-hub/K-Water-AI-Competition/blob/master/%5B2023%20%EC%A0%9C%203%ED%9A%8C%20K-water%20AI%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C%5D%5B1st%20solution%5D.pdf)
+
 ## 대회 주제
 낙동강 하굿둑 물고기 영상에서 농어, 베스, 숭어, 강준치, 블루길, 잉어, 붕어, 누치 8개의 어종을 식별하고 분류하는 AI 모델 개발
 
@@ -48,8 +51,8 @@
 ## Member
 | 이름       | 학년 | 전공          | 역할                          |
 |------------|-----|---------------|------------------------------|
-| 백근주    | 4    | 지능기전공학부 무인이동체공학전공 | Custom Cutout 개발, CAM based analysis, 수도라벨링 적용 |
-| 김동영    | 4    | 지능기전공학부 무인이동체공학전공 | YOLOv8 baseline 작성, Ablation Study, Custom Blur 개발 |
+| 백근주    | 4    | 지능기전공학부 무인이동체공학전공 | 팀장 : Custom Cutout 개발, CAM based analysis, 수도라벨링 적용 |
+| 김동영    | 4    | 지능기전공학부 무인이동체공학전공 | 팀원 : YOLOv8 baseline 작성, Ablation Study, Custom Blur 개발 |
 
 ## 개발 환경
 - Python: 3.9.16
